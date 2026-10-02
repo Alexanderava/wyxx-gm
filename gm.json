@@ -1,4 +1,9 @@
 {
-  "notices": [],
-  "rewards": []
+  "notices": [
+    { "id": "n_test001", "title": "GM测试公告", "body": "这是一条测试公告，看到说明GM公告板工作正常。" }
+  ],
+  "rewards": [
+    { "id": "r_test001", "title": "GM测试奖励", "body": "测试奖励发放",
+      "gifts": { "lingshi": 1000, "mats": { "灵芝草": 10 } } }
+  ]
 }
