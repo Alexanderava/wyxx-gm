@@ -29,5 +29,19 @@
         "wudao": 100
       }
     }
+  ],
+  "codes": [
+    {
+      "code": "XXYX-HUASHEN-001",
+      "rewards": {
+        "realm": 4,
+        "lingshi": 100000,
+        "xianyu": 2000,
+        "pills": {
+          "pojingdan": 5,
+          "jinhuadan": 5
+        }
+      }
+    }
   ]
 }
